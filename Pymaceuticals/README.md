@@ -1,8 +1,3 @@
-This repository is destined to hold files in order to display some of the main Data Analytical skills developed by me, Gustavo Garofalo, in the past couple of years.
-
-Most of the skills displayed here were learned either by self studying or formal education, one of which is the Data Analytics and Visualization Bootcamp, an intensive 24 week program offered by the University of Central Florida (Cerificate awarded in March 2020).
-
-The skill displayed in this repository is MATPLOTLIB.
 
 ________________________________________________________________________________________________________________________________________
 Description of the work done:
@@ -12,7 +7,7 @@ ________________________________________________________________________________
 
 What good is data without a good plot to tell the story?
 
-The analysis performed on this challenge used two different datasets, that can be encoutered in the folder called "data" which is in the folder called "Pymaceuticals". Inside this same folder (seecond mentioned), the solution is foun in a jupyter notebook file. The graphic representations produced were saved by the program into the folder "Images", by uging .savefig.
+The analysis performed on this challenge used two different datasets, that can be encoutered in the folder called "data" which is in the folder called "Pymaceuticals". Inside this same folder (second mentioned), the solution is foun in a jupyter notebook file. The graphic representations produced were saved by the program into the folder "Images", by using .savefig.
 
 
 ## Challenge: Pymaceuticals 
