@@ -12,6 +12,8 @@ ________________________________________________________________________________
 
 What good is data without a good plot to tell the story?
 
+The analysis performed on this challenge used two different datasets, that can be encoutered in the folder called "data" which is in the folder called "Pymaceuticals". Inside this same folder (seecond mentioned), the solution is foun in a jupyter notebook file. The graphic representations produced were saved by the program into the folder "Images", by uging .savefig.
+
 
 ## Challenge: Pymaceuticals 
 
